@@ -64,7 +64,7 @@ Confira o total de votos e se a questão possui votos.
 ## Screenshots
 
 1. **Painel de Administração**:
-   ![Tela Admin](screenshots/Tela%20admin.jpg)
+   ![Tela Admin](screenshots/Telaadmin.jpg)
 
 2. **Página de Resultados**:
    ![Resultado](screenshots/Resultado.jpg)
